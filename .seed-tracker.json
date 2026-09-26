@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-26T10:12:28.177Z",
+  "lastSynced": "2026-09-26T10:21:03.534Z",
   "problems": {
     "Q0.47": {
       "questionId": "Q0.47",
@@ -56,6 +56,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-09-26T10:12:28.177Z"
+    },
+    "Q0.52": {
+      "questionId": "Q0.52",
+      "title": "Basic_Level_0_Looping_1",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-52-basic-level-0-looping-1",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-09-26T10:21:03.534Z"
     }
   }
 }
