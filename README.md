@@ -4,23 +4,25 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-1%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-1-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-2%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-2-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **JAVA**: 1 solution
+- **JAVA**: 2 solutions
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-26 | [Q0.48 - Basic_Level_1_Conditional_Statements_7](./Problems/general/q0-48-basic-level-1-conditional-statements-7) | General | `Medium` | java | [View](./Problems/general/q0-48-basic-level-1-conditional-statements-7) |
 | 2026-09-26 | [Q0.47 - Basic_Level_1_Conditional_Statements_6](./Problems/general/q0-47-basic-level-1-conditional-statements-6) | General | `Medium` | java | [View](./Problems/general/q0-47-basic-level-1-conditional-statements-6) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (1 Problem)</b></summary>
+<summary><b>📁 General (2 Problems)</b></summary>
 
+- [Q0.48 - Basic_Level_1_Conditional_Statements_7](./Problems/general/q0-48-basic-level-1-conditional-statements-7) — `Medium`
 - [Q0.47 - Basic_Level_1_Conditional_Statements_6](./Problems/general/q0-47-basic-level-1-conditional-statements-6) — `Medium`
 
 </details>
