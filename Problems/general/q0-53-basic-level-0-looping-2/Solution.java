@@ -1,0 +1,24 @@
+/**
+ * Problem: Q0.53 - Basic_Level_0_Looping_2
+ * Category: General
+ * Difficulty: Medium
+ * Platform: SEED-IT Platform (https://seed-it.com)
+ * Date Solved: 2026-09-26
+ * Language: java
+ * Test Cases: 30 / 30 Passed (100%)
+ */
+
+import java.util.*;
+import java.io.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        Scanner sc=new Scanner(System.in);
+        int int1=sc.nextInt();
+        int int2=sc.nextInt();
+        for(int i=int1;i<=int2;i++){
+            System.out.print(i+"\t");
+        }
+        // your code goes here
+    }
+}
