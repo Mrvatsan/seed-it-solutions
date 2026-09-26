@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-26T09:42:07.650Z",
+  "lastSynced": "2026-09-26T09:57:32.079Z",
   "problems": {
     "Q0.47": {
       "questionId": "Q0.47",
@@ -23,6 +23,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-09-26T09:42:07.650Z"
+    },
+    "Q0.49": {
+      "questionId": "Q0.49",
+      "title": "Basic_Level_1_Conditional_Statements_8",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-49-basic-level-1-conditional-statements-8",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-09-26T09:57:32.079Z"
     }
   }
 }
